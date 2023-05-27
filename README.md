@@ -14,3 +14,9 @@ When walking, unlike running, one of the two feet is always in contact with the 
 The aim of this work is to calculate the reaction forces, moments and powers exerted by the joints during both phases of walking through theoretical calculations and, lately, compare them with the values obtained by the program. This will help us determine the accuracy of the software.
 
 [1] Whittle M.W., McLatchie G.R., Lennox C.M.E. (1993). The Soft Tissues. Butterworth-Heinemann, 187-199. https://doi.org/10.1016/B978-0-7506-0170-2.50017-0
+
+**Author contact**\
+Lola Carcereny\
+Carrer de Roc Boronat, 138,\
+08018 Barcelona, Spain\
+lola.carcereny01@estudiant.upf.edu\
