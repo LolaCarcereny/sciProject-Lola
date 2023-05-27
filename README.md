@@ -4,7 +4,7 @@ Hi everyone!
 I'm Lola Carcereny, a Biomedical Engineering student at University Pompeu Fabra.
 In case you want to contact me here is my email: lola.carcereny01@estudiant.upf.edu
 
-The project presented in the following lines was developed some months ago as a Biomechanics study for the University. 
+The project presented in the following lines was developed some months ago as a Biomechanics study for the University. Please feel free to explore each subpage in my wiki for a detailed understanding of the project. 
 
 
 In order to identify the causes of anomalies in our locomotor system and the way we walk, a gait study is usually conducted. The reason of this analysis is due to the fact that most of these pathologies are not caused by traumas but by the induviduals way of walking. This study consists on exploring, through advannced technologies, the beahaviours and positions of our joints and feet in both dynamic and static dynamics.
